@@ -1,4 +1,3 @@
-package questions;
 import java.util.*;
 public class q3kthsmall {
 
