@@ -1,2 +1,3 @@
-# holiday kaam
- solution to coding probems given during end of year 1 holidays
+# daily coding challange
+ solution to coding problems given as a daily coding chalange
+ 
