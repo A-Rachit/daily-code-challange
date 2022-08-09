@@ -1,5 +1,4 @@
 public class q4sort012 {
-
 	static int[] sort012(int arr[]) {
 		int[] arr0 = new int[arr.length];
 		int[] arr1 = new int[arr.length];
