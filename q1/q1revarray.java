@@ -1,5 +1,3 @@
-package questions;
-
 public class q1revarray {
 	static void reverse(int arr[], int l) {
 		int[] rarr = new int[l];
