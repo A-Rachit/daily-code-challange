@@ -1,6 +1,5 @@
 import java.util.*;
 public class q3kthsmall {
-
 	static void kthsmall(int arr[], int k) {
 		Arrays.sort(arr);
 		int s=arr[k-1];
